@@ -1,5 +1,27 @@
+# hi
 <header>
 
+  ### Example
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
+
+
+```
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
+```
+
+<code>lwt a=54;</code>
+  <pre>
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+</pre>
+<img src ="https://octodex.github.com/images/yaktocat.png" alt="fgf">
 <!--
   <<< Author notes: Course header >>>
   Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
