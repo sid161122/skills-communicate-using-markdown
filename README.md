@@ -1,6 +1,7 @@
 # hi
 <header>
 
+<img src ="https://octodex.github.com/images/yaktocat.png" alt="fgf">
 <!--
   <<< Author notes: Course header >>>
   Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
