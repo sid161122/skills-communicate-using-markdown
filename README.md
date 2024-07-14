@@ -1,6 +1,12 @@
 # hi
 <header>
 <code>lwt a=54;</code>
+  <pre>
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+</pre>
 <img src ="https://octodex.github.com/images/yaktocat.png" alt="fgf">
 <!--
   <<< Author notes: Course header >>>
